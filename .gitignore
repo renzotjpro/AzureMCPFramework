@@ -1,0 +1,20 @@
+
+# Environment variables
+.env
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python compiled bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Validated files
+.idea/
+.vscode/
+.DS_Store
+.claude/
